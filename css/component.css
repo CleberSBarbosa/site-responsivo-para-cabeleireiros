@@ -61,12 +61,12 @@ body {
 }
 
 .slide__title span {
-	font-size: 55%;
+	font-size: 60%;
 	font-weight: bold;
 	display: block;
 	letter-spacing: 2px;
 	text-transform: uppercase;
-	color: #35303d;
+	color: #fde98dd8;
 }
 
 .slider__nav {
@@ -77,14 +77,14 @@ body {
 }
 
 .button {
-	font-size: 1.31em;
+	font-size: 1.5em;
 	position: relative;
 	display: inline-block;
 	overflow: hidden;
 	margin: 0 25px;
 	padding: 0;
 	cursor: pointer;
-	color: #5c5edc;
+	color: #fde98dd8;
 	border: none;
 	background: none;
 }
@@ -276,7 +276,7 @@ body {
 	font-size: 1.95em;
 	font-weight: normal;
 	margin: 0.25em 0 0.5em;
-	color: #685884;
+	color: #fde98dd8;
 }
 
 .content p {
